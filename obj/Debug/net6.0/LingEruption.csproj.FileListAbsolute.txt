@@ -1,0 +1,15 @@
+C:\Users\belai\OneDrive\Bureau\c#\ORMs\LingEruption\bin\Debug\net6.0\LingEruption.exe
+C:\Users\belai\OneDrive\Bureau\c#\ORMs\LingEruption\bin\Debug\net6.0\LingEruption.deps.json
+C:\Users\belai\OneDrive\Bureau\c#\ORMs\LingEruption\bin\Debug\net6.0\LingEruption.runtimeconfig.json
+C:\Users\belai\OneDrive\Bureau\c#\ORMs\LingEruption\bin\Debug\net6.0\LingEruption.dll
+C:\Users\belai\OneDrive\Bureau\c#\ORMs\LingEruption\bin\Debug\net6.0\LingEruption.pdb
+C:\Users\belai\OneDrive\Bureau\c#\ORMs\LingEruption\obj\Debug\net6.0\LingEruption.csproj.AssemblyReference.cache
+C:\Users\belai\OneDrive\Bureau\c#\ORMs\LingEruption\obj\Debug\net6.0\LingEruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belai\OneDrive\Bureau\c#\ORMs\LingEruption\obj\Debug\net6.0\LingEruption.AssemblyInfoInputs.cache
+C:\Users\belai\OneDrive\Bureau\c#\ORMs\LingEruption\obj\Debug\net6.0\LingEruption.AssemblyInfo.cs
+C:\Users\belai\OneDrive\Bureau\c#\ORMs\LingEruption\obj\Debug\net6.0\LingEruption.csproj.CoreCompileInputs.cache
+C:\Users\belai\OneDrive\Bureau\c#\ORMs\LingEruption\obj\Debug\net6.0\LingEruption.dll
+C:\Users\belai\OneDrive\Bureau\c#\ORMs\LingEruption\obj\Debug\net6.0\refint\LingEruption.dll
+C:\Users\belai\OneDrive\Bureau\c#\ORMs\LingEruption\obj\Debug\net6.0\LingEruption.pdb
+C:\Users\belai\OneDrive\Bureau\c#\ORMs\LingEruption\obj\Debug\net6.0\LingEruption.genruntimeconfig.cache
+C:\Users\belai\OneDrive\Bureau\c#\ORMs\LingEruption\obj\Debug\net6.0\ref\LingEruption.dll
